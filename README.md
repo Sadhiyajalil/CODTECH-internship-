@@ -15,3 +15,6 @@ Style the different components and the elements of HTML responsively to make the
 Make use of the media queries to define the responsive styles and to adjust the width of the containers.
 Use JavaScript to toggle the on click to the hamburger menu for small width devices to navigate through the page.
 Example: The below example will explain you how to design and build a portfolio website using HTML, CSS, and JavaScript responsively for every device:
+OUTPUT
+![image](https://github.com/user-attachments/assets/7d440837-7886-4ffe-8b06-f56fdeb70fcf)
+
